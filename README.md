@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate programmer from India</h3>
 
-<img align = "center" width = "100" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
+<img align = "right" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
 - ⚡ Fun fact **i think i am coding xd**
 
 
