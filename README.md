@@ -1,4 +1,4 @@
-<p align = "center" > <img align="center" width = "200" src=https://github.com/arunthe01/pic/blob/0fae3089ddd2af0b51516fd9d5fef21bd9a4ece7/world.png>  >
+<p align = "center"> <img align="center" width = "600" height="250" src=https://github.com/arunthe01/pic/blob/0fae3089ddd2af0b51516fd9d5fef21bd9a4ece7/world.png> </p>
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
