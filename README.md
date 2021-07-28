@@ -1,4 +1,6 @@
 
+<img align ="center" width ="500" src=https://www.canva.com/design/DAEld17H9M8/share/preview?token=vE8hO63Tsjqzmjn6SpzLpA&role=EDITOR&utm_content=DAEld17H9M8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton >
+
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
