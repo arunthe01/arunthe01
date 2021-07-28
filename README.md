@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
-<h3 align="center">A passionate programmer from india</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- ⚡ Fun fact **i think i am coding xd**
+
 
 - 🌱 I’m currently learning **python and DSA**
 
