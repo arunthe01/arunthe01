@@ -1,9 +1,9 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
 
-
+<img align = "right" width = "500" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
 - ⚡ Fun fact **i think i am coding xd**
 
 
