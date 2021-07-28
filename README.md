@@ -4,7 +4,10 @@
   <h3 align="center">A passionate programmer from India</h3>
   <p font size = "+2"  > <b> future 🔮 depends on what you do today </b> </p>
  <img align = "right" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
+
  -<i> ⚡ Fun fact i think i am coding xd </i>
+
+
 - 🌱 I’m currently learning **python and DSA**
 
 - 💬 Ask me about **c++ , c**
