@@ -7,7 +7,7 @@
 
 <p font size = "+2"  > <strong> future 🔮 depends on what you do today </strong></p>
 
--<i> ⚡ Fun fact i think i am coding xd </i>
+-<i> ⚡ Fun fact i think i am funny xd </i>
 
 
 - 🌱 I’m currently learning **python and DSA**
