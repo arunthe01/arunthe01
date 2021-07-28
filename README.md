@@ -1,5 +1,8 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
+
 <h3 align="center">A passionate programmer from India</h3>
+
 
 - ⚡ Fun fact **i think i am coding xd**
 
