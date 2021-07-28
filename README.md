@@ -4,7 +4,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 <img align = "right" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
-- ⚡ Fun fact **i think i am coding xd**
+-<i> ⚡ Fun fact **i think i am coding xd** </i>
 
 
 - 🌱 I’m currently learning **python and DSA**
