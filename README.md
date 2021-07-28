@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate programmer from India</h3>
 <p font size = "+2"  > <b> future 🔮 depends on what you do today </b> </p>
-<p align = "center"><img align = "right" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif> </p>
+<p align = "center"><img align = "center" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif> </p>
 
 -<i> ⚡ Fun fact i think i am coding xd </i>
 
