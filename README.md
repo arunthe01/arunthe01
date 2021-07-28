@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
