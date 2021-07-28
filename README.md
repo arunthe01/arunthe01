@@ -1,11 +1,11 @@
-<p align = "center"> <img align="center"  src=https://github.com/arunthe01/pic/blob/0fae3089ddd2af0b51516fd9d5fef21bd9a4ece7/world.png> </p>
-<h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
+   <p align = "center"> <img align="center"  src=https://github.com/arunthe01/pic/blob/0fae3089ddd2af0b51516fd9d5fef21bd9a4ece7/world.png> </p>
+   <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
- <h3 align="center">A passionate programmer from India</h3>
+  <h3 align="center">A passionate programmer from India</h3>
   <p font size = "+2"  > <b> future 🔮 depends on what you do today </b> </p>
  <img align = "right" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif>
  -<i> ⚡ Fun fact **i think i am coding xd** </i>
-
+ <img align = "left" width = "150" src=https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I>
 
 - 🌱 I’m currently learning **python and DSA**
 
