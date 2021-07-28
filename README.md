@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm ARUN EMMIDI</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
-<p font size = "+2"  > <strong> future 🔮 depends on what you do today </strong></p>
+
 <p align = "center"><img align = "center" width = "150" src=https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif> </p>
+
+<p font size = "+2"  > <strong> future 🔮 depends on what you do today </strong></p>
 
 -<i> ⚡ Fun fact i think i am coding xd </i>
 
