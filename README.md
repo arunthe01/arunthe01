@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **c++ , c**
 
-- 📫 How to reach me **djdjdjaaa999@gmail.com**
 - <p>I <span style="font-size:500%;color:red;">&hearts;</span> to explore </p>
 
 
